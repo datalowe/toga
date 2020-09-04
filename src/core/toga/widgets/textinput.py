@@ -4,7 +4,7 @@ from .base import Widget
 
 
 class TextInput(Widget):
-    """ A widget get user input.
+    """ A widget to get user input.
 
     Args:
         id (str): An identifier for this widget.
